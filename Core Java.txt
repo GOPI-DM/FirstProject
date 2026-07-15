@@ -1,0 +1,55 @@
+Programming language:
+
+High Level language (HL):---->JAVA
+	it is a human readable language.
+
+Low Level Language(LL)---> Binary 0,1
+	system readable language.
+
+WHO TRANSLATES FROM HIGH TOLOW LWVWL LANGUAGES?
+
+1.Compiler : it compiles in a single short.
+
+2.Interprator: it execute in "line by line".
+
+JAVA IS compiled or Interpreted LANGUAGE?
+It is a Hybrid language.
+
+.java -->Compiler ->.class(Byte code)->JVM -> LL
+
+JAVA IS PLATFORM INDEPENDENT??
+Yes,
+write once run any where.
+
+JDK->JAVA DEVELOPMENT KIT
+
+version-->21/25
+Developer-->write some peace of  code--> compile-->run
+
+To compile -->Javac
+to run -->java
+
+what does JDK Contains??
+JDK==>JRE +Dev Tools(Javac, debugger)
+
+
+JRE-->JAVA RUN TIME ENVIRONVEMENT
+The JRE does not contains the compiler. It has only run time environment.
+JRE==>JVM + Libraries/Packages.
+
+
+JVM:=>JAVA VIRTUAL MACHINE
+.java -> compiler -> .class ->   JVM
+
+JVM mainly contains three things
+1 CLSS ->Class Loader SubSystem.
+	.Class->
+	a. Loads all .class files
+	b. verifies all .class files
+	c. Links
+	d. Initializes
+	
+2 MEMORY MANAGEMENT
+3 EXECUTION ENGINE
+
+ 
